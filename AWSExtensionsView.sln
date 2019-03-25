@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RekognitionFaceLandmark", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextractRelationshipsView", "TextractRelationshipsView\TextractRelationshipsView.csproj", "{5B2118CB-7580-4B3D-95E0-CCA80235E5CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RekognitionDetectTextRelationshipsView", "RekognitionDetectTextRelationshipsView\RekognitionDetectTextRelationshipsView.csproj", "{28F57A8A-ED64-4717-97CB-18ED930705D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{5B2118CB-7580-4B3D-95E0-CCA80235E5CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B2118CB-7580-4B3D-95E0-CCA80235E5CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B2118CB-7580-4B3D-95E0-CCA80235E5CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28F57A8A-ED64-4717-97CB-18ED930705D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28F57A8A-ED64-4717-97CB-18ED930705D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28F57A8A-ED64-4717-97CB-18ED930705D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28F57A8A-ED64-4717-97CB-18ED930705D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
