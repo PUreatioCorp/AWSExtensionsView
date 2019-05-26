@@ -17,3 +17,8 @@ The target method is ```Analyzer#AnalyzeDetectText(string)```.
 TextractExtensions sample view.<br>
 Display the parent-child relationship of the detected text in TreeView.<br>
 The target method is ```Analyzer#AnalyzeDetectDocumentText(string)```.
+
+## License
+MIT<br>
+https://ja.wikipedia.org/wiki/MIT_License
+
