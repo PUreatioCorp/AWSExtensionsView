@@ -3,6 +3,8 @@ AWS Extensions Sample View.<br>
 Please also refer to the following URL.
 * https://github.com/PUreatioCorp/AWSExtensions
 
+Please use it as a sample.
+
 ## RekognitionFaceLandmark
 RekognitionExtensions sample view.<br>
 Draw the acquired outline information on the canvas.<br>
@@ -17,8 +19,3 @@ The target method is ```Analyzer#AnalyzeDetectText(string)```.
 TextractExtensions sample view.<br>
 Display the parent-child relationship of the detected text in TreeView.<br>
 The target method is ```Analyzer#AnalyzeDetectDocumentText(string)```.
-
-## License
-MIT<br>
-https://ja.wikipedia.org/wiki/MIT_License
-
